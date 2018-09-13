@@ -1,0 +1,34 @@
+_repo: The-Influence-of-Darwin-on-Philosophy-and-other-essays-in-contemporary-thought_51525
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: ''
+gutenberg_issued: '2016-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51525'
+  lccn: '10010721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Evolution'
+- !lcsh 'Philosophy'
+- !lcsh 'Pragmatism'
+- GITenberg
+tableOfContents: 'The influence of Darwinism on philosophy -- Nature and its good:
+  a conversation -- Intelligence and morals -- The experimental theory of knowledge
+  -- The intellectualist criterion for truth -- A short catechism concerning truth
+  -- Beliefs and existences -- Experience and objective idealism -- The postulate
+  of immediate empiricism -- "Consciousness" and experience -- The significance of
+  the problem of knowledge.'
+title: The Influence of Darwin on Philosophy, and other essays in contemporary thought
+url: http://www.gutenberg.org/ebooks/51525
