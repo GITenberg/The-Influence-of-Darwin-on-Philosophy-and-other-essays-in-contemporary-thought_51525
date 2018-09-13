@@ -1,5 +1,8 @@
 _repo: The-Influence-of-Darwin-on-Philosophy-and-other-essays-in-contemporary-thought_51525
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51525-h/images/cover.jpg
 creator:
   author:
     agent_name: Dewey, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/446
     wikipedia: http://en.wikipedia.org/wiki/John_Dewey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51525#The-Influence-of-Darwin-on-Philosophy-and-other-essays-in-contemporary-thought
 gutenberg_issued: '2016-03-22'
 gutenberg_type: Text
 identifiers:
